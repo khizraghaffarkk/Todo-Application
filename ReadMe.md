@@ -1,6 +1,6 @@
 # ✅ Todo Application
 
-Welcome to my Todo Application! 📝✨ Explore the power of **`REST APIs`**, HTTP Methods, and the Express Web Framework as you dive into this intuitive app designed to streamline your task management. Crafted with care using HTML, CSS, **`Express JS`**, and JavaScript, this app offers a seamless experience for creating and managing your to-do lists.
+Welcome to my Todo Application! 📝✨ Explore the power of **`REST APIs`**, HTTP Methods, and the Express Web Framework as you dive into this intuitive app designed to streamline your task management. Crafted with care using HTML, CSS, **`Express JS`**, and JavaScript, this app offers a seamless experience for creating and managing your to-do lists. Plus, it's deployed on **`Vercel`**, ensuring smooth and reliable performance!
 
 ## ✨ Features
 
